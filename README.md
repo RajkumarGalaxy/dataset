@@ -1,1 +1,3 @@
-My Notebooks and Codes with Machine Learning models created using scikit-learn library are available here
+My miscellaneous files
+Also includes: Codes/works in development stage
+Also includes: Codes/works not ready for production
