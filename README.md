@@ -1,3 +1,3 @@
-# Corpus collection 
-txt files | for practice only, not for commercial use
-
+# Tabular data | Corpora | Images 
+txt files | 
+tabular data files |
